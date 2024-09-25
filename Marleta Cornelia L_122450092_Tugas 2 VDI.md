@@ -42,7 +42,7 @@ Visualisasi data ini disusun secara hierarkis sehingga pembaca dapat dengan muda
 
 <img src="https://github.com/user-attachments/assets/64df374b-c1a8-4687-a321-4a96f107fa36" width ='800'/>
 
-_https://images.app.goo.gl/V2CLq6pVXiNw6TkV8_
+_Source : https://images.app.goo.gl/V2CLq6pVXiNw6TkV8_
 
 ### - Form and Function
 Menggunakan doughnut chart namun segmen pembagiannya tidak mudah dibaca dan tidak jelas proporsi data antar kategori
@@ -61,7 +61,7 @@ Tidak ada overload data, namun disini pembaca harus ada usaha ekstra karena desa
 
 <img src="https://github.com/user-attachments/assets/7eb56d24-c180-47fe-8250-02cf916511a5" width ='800'/>
 
-_https://pin.it/5Zy2kGlep_
+_Source : https://pin.it/5Zy2kGlep_
 
 ### - Form and Function
 Bentuk yang estetis namun bentuk piramida ini membuat pembaca kesulitan melihat perbandingan antar elemen/bagian. Proporsi area yang tidak sepadan antar elemennya sehingga bagian yang paling penting tidak terlihat.
